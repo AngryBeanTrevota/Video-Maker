@@ -1,0 +1,22 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "projeto pra fazer videos automáticos\r apenas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngryBeanTrevota/Video-Maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngryBeanTrevota/Video-Maker/issues"
+  },
+  "homepage": "https://github.com/AngryBeanTrevota/Video-Maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
